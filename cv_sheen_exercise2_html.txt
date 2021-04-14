@@ -1,0 +1,48 @@
+<hr />
+
+<p>layout: cv</p>
+
+<h2>title: Michelle Sheen</h2>
+
+<h1>Michelle Sheen</h1>
+
+<p>M.P.P, B.S. Public Health</p>
+
+<div id="webaddress">
+<a href="mshee013@ucr.edu">mshee013@ucr.edu</a>
+| <a href="linkgoeshere">My Important Documents</a>
+</div>
+
+<h2>2021</h2>
+
+<p>Master's in Public Policy</p>
+
+<h3>2020</h3>
+
+<p>Riverside Overdose Data to Action Intern</p>
+
+<h3>Research Interests</h3>
+
+<p>Women's and Children's Welfare Policy</p>
+
+<h2>Education</h2>
+
+<p>B.S. Public Health
+</div></p>
+
+<h2>2021</h2>
+
+<p>Master's in Public Policy</p>
+
+<h3>2020</h3>
+
+<p>Riverside Overdose Data to Action Intern</p>
+
+<h3>Research Interests</h3>
+
+<p>Women's and Children's Welfare Policy</p>
+
+<h2>Education</h2>
+
+<p>B.S. Public Health</p>
+

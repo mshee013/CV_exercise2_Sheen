@@ -1,0 +1,44 @@
+---
+layout: cv
+title: Michelle Sheen
+---
+# Michelle Sheen
+M.P.P, B.S. Public Health
+
+<div id="webaddress">
+<a href="mshee013@ucr.edu">mshee013@ucr.edu</a>
+| <a href="linkgoeshere">My Important Documents</a>
+</div>
+
+## 2021
+
+Master's in Public Policy
+
+### 2020
+
+Riverside Overdose Data to Action Intern
+
+### Research Interests
+
+Women's and Children's Welfare Policy
+
+## Education
+
+B.S. Public Health
+</div>
+
+## 2021
+
+Master's in Public Policy
+
+### 2020
+
+Riverside Overdose Data to Action Intern
+
+### Research Interests
+
+Women's and Children's Welfare Policy
+
+## Education
+
+B.S. Public Health
